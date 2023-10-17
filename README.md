@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @shreyash911carrera
-- 👀 I’m interested in webpage and game development
+- 👋 Hi, I’m Shreyash Thigale
+- 👀 I’m interested in android application and game development
 - 🌱 I’m currently learning diploma in CS
